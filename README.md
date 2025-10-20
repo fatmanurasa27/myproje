@@ -1,0 +1,2 @@
+# myproje
+yaptığım işler
